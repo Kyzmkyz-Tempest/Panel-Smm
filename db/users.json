@@ -1,1 +1,16 @@
-
+[
+    {
+        "username": "alesha",
+        "password": "alesha131009",
+        "status": "admin",
+        "saldo": 999999999,
+        "orders": []
+    },
+    {
+        "username": "fajar",
+        "password": "fajar123",
+        "status": "silver",
+        "saldo": 0,
+        "orders": []
+    }
+]
